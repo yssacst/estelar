@@ -1,0 +1,15 @@
+.footer{
+    background-color: #EBCBB6;
+    display:flex;
+    justify-content:space-around;
+}
+.footer img{
+    width:150px;
+    margin:15px;
+}
+.title{
+    color:#fff;
+}
+.subtitle{
+    color:#fff;
+}

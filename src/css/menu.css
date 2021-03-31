@@ -1,0 +1,22 @@
+.nav-menu{
+    border-top: 1px solid #EBCBB6;
+    border-bottom: 1px solid #EBCBB6;
+    height:60px;
+    line-height: 60px;
+    background-color:#fff;
+}
+.nav-menu a{
+    margin:50px;
+    text-decoration: none;
+    color:#EBCBB6;
+    font-weight: bold;
+}
+.nav-menu a:hover{
+    color:#EBCBB6;
+    text-shadow: 1px 1px 20px #f5dfec;
+}
+@media screen and (max-width: 770px) {
+    .nav-menu a{
+        margin: 10px;
+    }
+}

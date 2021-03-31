@@ -1,0 +1,30 @@
+*{
+    text-align:center;
+}
+.box-principal{
+    background-image: url("../img/Ativo\ 7.png");
+    height:100%;
+    padding-left:200px;
+    padding-right:200px;
+}
+.logo{
+    margin:30px;
+    width:200px;
+}
+.box-produtos{
+    display:inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top:20px;
+    margin-bottom:20px;
+
+}
+@media screen  {
+    .box-principal{
+        padding-left:10px;
+        padding-right:10px;
+    }  
+    .box-produtos{
+        justify-content: space-around;
+    }
+}

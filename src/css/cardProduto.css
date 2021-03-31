@@ -1,0 +1,36 @@
+.container{
+    border-radius: 5px;
+    flex-wrap: wrap;
+    width: 200px;
+    contain: cover;
+    margin:10px;
+    background-color: #fff;
+}
+.container img {
+    width:200px;
+    flex-wrap: wrap;
+
+}
+.container:hover{
+    padding-bottom:5px;
+    box-shadow:0px 2px 10px #EBCBB6;
+}
+.btn{
+    height: 30px;
+    background-color: #EBCBB6;
+    border-style: none;
+    color: #fff;
+}
+.btn:hover{
+    cursor:pointer;
+}
+.titulo{
+    color:#EBCBB6;
+    font-weight: bold;
+}
+.subtitulo{
+    font-size: 18px;
+    font-weight: bold;
+    color:#EBCBB6;
+
+}
