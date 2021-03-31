@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9ae8604d.chunk.css",
+    "main.js": "/static/js/main.ed4d48f0.chunk.js",
+    "main.js.map": "/static/js/main.ed4d48f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8770ac5d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8770ac5d.js.map",
+    "static/js/2.20135c8a.chunk.js": "/static/js/2.20135c8a.chunk.js",
+    "static/js/2.20135c8a.chunk.js.map": "/static/js/2.20135c8a.chunk.js.map",
+    "static/js/3.7f9c6388.chunk.js": "/static/js/3.7f9c6388.chunk.js",
+    "static/js/3.7f9c6388.chunk.js.map": "/static/js/3.7f9c6388.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9ae8604d.chunk.css.map": "/static/css/main.9ae8604d.chunk.css.map",
+    "static/js/2.20135c8a.chunk.js.LICENSE.txt": "/static/js/2.20135c8a.chunk.js.LICENSE.txt",
+    "static/media/Ativo 4.88f95fde.png": "/static/media/Ativo 4.88f95fde.png",
+    "static/media/Ativo 5.cfd7fdfa.png": "/static/media/Ativo 5.cfd7fdfa.png",
+    "static/media/chaveiro-de-resina.0da7dde8.jpg": "/static/media/chaveiro-de-resina.0da7dde8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8770ac5d.js",
+    "static/js/2.20135c8a.chunk.js",
+    "static/css/main.9ae8604d.chunk.css",
+    "static/js/main.ed4d48f0.chunk.js"
+  ]
+}
